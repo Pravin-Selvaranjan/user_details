@@ -1,4 +1,8 @@
 # **_Python user detail task_**
+![python task](https://user-images.githubusercontent.com/110179866/182218621-04d407b6-7fa7-4a66-87a7-e6edd65b1c5b.jpeg)
+
+
+
 
 ## We will be using what we have learnt in the last week in order to create a simple user information programme. This will combine the following elements: 
 
@@ -110,6 +114,11 @@ if age > 18:
 else:
     print("Unfortunately you are underage, please come back in " + str(18-age) + " years.")
 ```
+- Please see the below images with regards to output of code
+![output of code](https://user-images.githubusercontent.com/110179866/182219801-a8414897-602d-44f7-a430-2af8a6fd28f3.jpeg)
+
+
+![output of code 12](https://user-images.githubusercontent.com/110179866/182219811-b29490d6-2d33-48b5-a5f0-f2fcb7b4c17b.jpeg)
 
 
 ## **_Git ignore_**
@@ -117,10 +126,12 @@ else:
 This is used to keep files on your localhost to prevent it from being pushed up, git completely ignores files of this nature. Hence the name
 Follow the below steps to accomplish creating a .gitignore file. 
 
-(image)
 
-(image)
+![ignore file](https://user-images.githubusercontent.com/110179866/182218474-4c260423-f3ef-41c4-9b71-1a62b688ef02.jpeg)
 
+
+
+![git ignore](https://user-images.githubusercontent.com/110179866/182218488-f41d08ea-6ee8-4240-b741-75b898e4ae6d.jpeg)
 
 
 # Definiton of Ready
